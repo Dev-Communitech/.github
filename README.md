@@ -1,6 +1,6 @@
 # **DEV COMMUNITECH**
 
-![Dev_Communitech](https://user-images.githubusercontent.com/116962805/199740513-c9508acf-6a95-450c-a81d-a687bd72ce3b.png)
+![WhatsApp Image 2022-11-03 at 7 45 47 PM](https://user-images.githubusercontent.com/116962805/199745838-a08fe696-1ed7-4c9e-9703-d0ab978f2d72.jpeg)
 
 ![GitHub followers](https://img.shields.io/github/followers/Dev-Communitech?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Dev-Communitech/Dev-communitech-web?style=social)
