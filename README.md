@@ -1,10 +1,12 @@
 # **DEV COMMUNITECH**
+<p align="center">
+<img src="https://user-images.githubusercontent.com/116962805/199745838-a08fe696-1ed7-4c9e-9703-d0ab978f2d72.jpeg" alt=width="750">
+</p>
 
-![WhatsApp Image 2022-11-03 at 7 45 47 PM](https://user-images.githubusercontent.com/116962805/199745838-a08fe696-1ed7-4c9e-9703-d0ab978f2d72.jpeg)
-
-![GitHub followers](https://img.shields.io/github/followers/Dev-Communitech?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Dev-Communitech/Dev-communitech-web?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/Dev-Communitech/Dev-communitech-web)
+<p align="center">
+<img src="https://img.shields.io/github/followers/Dev-Communitech?style=social">
+<img src="https://img.shields.io/github/forks/Dev-Communitech/Dev-communitech-web?style=social">
+<img src="https://img.shields.io/github/contributors/Dev-Communitech/Dev-communitech-web"> 
 
 
  ### **What is the purpose of Dev Communitech?**
@@ -63,5 +65,6 @@ Sexual harassment is unwelcome verbal, physical or virtual behavior based on sex
 ### ---Important Note: 
 The above summary of expectation applies to all Dev Communitech Student Ambassadors and Community is for informational purposes.  Dev Communitech reserves the right to amend or change this Code of Conduct at any time, without notice. Community members and leads agree to periodically review this document to ensure they follow the obligations.
 
+ 
 ![Twitter Follow](https://img.shields.io/twitter/follow/devcommunit?style=social)
 
