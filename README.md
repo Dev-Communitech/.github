@@ -9,12 +9,12 @@
 <img src="https://img.shields.io/github/contributors/Dev-Communitech/Dev-communitech-web"> 
 
 
- ### **What is the purpose of Dev Communitech?**
+ ### ❓ **What is the purpose of Dev Communitech?**
 
  
    Our mission is to empower every student who has the inner fire to achieve something.**"we are only as strong as we are united"** as this saying we have hearby built the best community to help the students with open source contribution and student collabraton features. Through our student ambassador program, students gain the opportunity to develop their leadership skills, network with other students, and gain exposure to the world of hacking. By becoming one, you'll gain the confidence and skills you need. Apart from that you can gain more from our hackathons, events and much more.
      
- ### **What are the values that we expect of our community and those who engage?**
+ ### 🌟 **What are the values that we expect of our community and those who engage?**
  
  Our program finds strength in diversity and inclusion. In all our interactions, we aspire to embody and champion these values as a program and as a community.
 
@@ -40,7 +40,7 @@
 - Sometimes it is best to pause from commenting or reacting immediately to feedback/constructive criticism. 
 - We will make mistakes. When others are not at their best, we should reach out, offer support, and seek to understand. When you are at fault, listen, and ask how you can make things right. 
 
-### What are the expectations of Community Leaders and Members? 
+### :guardsman: What are the expectations of Community Leaders and Members? 
 
 Dev Communitech does not tolerate any behavior that is degrading to any individual in any form. This summary of Communitis minimum expectations is intended to provide individuals considering participation in the Student Ambassadors Program and the public with the standards of what is not accepted as values within our community include the following (without limitation):
 
@@ -62,7 +62,7 @@ Dev Communitech is committed to providing a harassment-free experience to Progra
 #### No sexual harassment.
 Sexual harassment is unwelcome verbal, physical or virtual behavior based on sex and includes gender-based harassment of a person of the same or different gender. Examples of sexual harassment include, but are not limited to:
 - Unwelcome sexual advances,Sexual comments or inappropriate gender-based jokesoExcessive, unwelcome romantic attention, Offering or conditioning an employment benefit or preferential treatment, like a promotion or job assignment, in exchange for sexual favor, Unwelcome physical contactoSharing or displaying sexually explicit contentoUsing sexually degrading words.
-### ---Important Note: 
+### 🗒️---Important Note: 
 The above summary of expectation applies to all Dev Communitech Student Ambassadors and Community is for informational purposes.  Dev Communitech reserves the right to amend or change this Code of Conduct at any time, without notice. Community members and leads agree to periodically review this document to ensure they follow the obligations.
 
 
