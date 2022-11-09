@@ -59,9 +59,7 @@ community members may get access to certain non-public information during their 
 
 #### No discrimination or harassment.
 Dev Communitech is committed to providing a harassment-free experience to Program participants regardless of age, ancestry, color, gender identity or expression, marital status, medical condition, national origin, physical size, physical or mental disability, political affiliation, veteran status, race, religion, sex (including pregnancy), sexual orientation, or technology choices. Harassment is unwelcome verbal, physical or virtual behavior based on the characteristics identified above. 
-#### No sexual harassment.
-Sexual harassment is unwelcome verbal, physical or virtual behavior based on sex and includes gender-based harassment of a person of the same or different gender. Examples of sexual harassment include, but are not limited to:
-- Unwelcome sexual advances,Sexual comments or inappropriate gender-based jokesoExcessive, unwelcome romantic attention, Offering or conditioning an employment benefit or preferential treatment, like a promotion or job assignment, in exchange for sexual favor, Unwelcome physical contactoSharing or displaying sexually explicit contentoUsing sexually degrading words.
+
 ### 🗒️---Important Note: 
 The above summary of expectation applies to all Dev Communitech Student Ambassadors and Community is for informational purposes.  Dev Communitech reserves the right to amend or change this Code of Conduct at any time, without notice. Community members and leads agree to periodically review this document to ensure they follow the obligations.
 
