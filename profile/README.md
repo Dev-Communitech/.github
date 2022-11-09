@@ -1,7 +1,8 @@
 # **DEV COMMUNITECH**
 <p align="center">
-<img src="https://user-images.githubusercontent.com/116962805/199745838-a08fe696-1ed7-4c9e-9703-d0ab978f2d72.jpeg" alt=width="750">
-</p>
+
+</p>![DevCommunitech ](https://user-images.githubusercontent.com/85986691/200911065-4093032e-d4af-4d8c-afa2-aee94197e785.png)
+
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/Dev-Communitech?style=social">
