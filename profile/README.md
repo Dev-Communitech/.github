@@ -1,7 +1,6 @@
 # **DEV COMMUNITECH**
-<p align="center">
+<img src=![DevCommunitech ]"https://user-images.githubusercontent.com/85986691/200911233-c0fb7bc1-1e30-4b7f-acd1-82072e08f2f4.png")>
 
-</p>![DevCommunitech ](https://user-images.githubusercontent.com/85986691/200911065-4093032e-d4af-4d8c-afa2-aee94197e785.png)
 
 
 <p align="center">
