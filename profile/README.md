@@ -12,7 +12,7 @@
  ### ❓ **What is the purpose of Dev Communitech?**
 
  
-   Our mission is to empower every student who has the inner fire to achieve something.**"we are only as strong as we are united"** as this saying we have hearby built the best community to help the students with open source contribution and student collabraton features. Through our student ambassador program, students gain the opportunity to develop their leadership skills, network with other students, and gain exposure to the world of hacking. By becoming one, you'll gain the confidence and skills you need. Apart from that you can gain more from our hackathons, events and much more.
+  Our mission is to empower every student who has the inner fire to achieve something.**"we are only as strong as we are united"** as this saying we have hearby built the best community to help the students with open source contribution and student collabraton features. Through our student ambassador program, students gain the opportunity to develop their leadership skills, network with other students, and gain exposure to the world of hacking. By becoming one, you'll gain the confidence and skills you need. Apart from that you can gain more from our hackathons, events and much more.
      
  ### 🌟 **What are the values that we expect of our community and those who engage?**
  
@@ -63,7 +63,7 @@ Dev Communitech is committed to providing a harassment-free experience to Progra
 ### 🗒️---Important Note: 
 The above summary of expectation applies to all Dev Communitech Student Ambassadors and Community is for informational purposes.  Dev Communitech reserves the right to amend or change this Code of Conduct at any time, without notice. Community members and leads agree to periodically review this document to ensure they follow the obligations.
 
-
+Became us Contribute
 
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/devcommunit?style=social)
